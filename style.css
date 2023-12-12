@@ -1,7 +1,12 @@
 .navbar{
     display: flex;
     height: 60px;
+    background-color: burlywood;
     width: 100%;
+    margin-top: -9px;
+    margin-left: -7px;
+    margin-right: 0;
+    padding: 5px;
     }
 .navbar div{
     height: 60px;
@@ -62,6 +67,10 @@
 .five div img{
     width: 100%;
     height: 300px;
+}
+
+.pics img{
+    width: 100%;
 }
 
 .footer {
